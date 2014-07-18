@@ -1,0 +1,13 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Ungit": "ungit --port=9501"
+  },
+
+// Preview button configuration
+  "preview": {
+			"Visit Ungit": "https://{{domain}}:9501/#/repository?path=/home/codio/workspace"
+  }
+}
